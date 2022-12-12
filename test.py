@@ -10,4 +10,4 @@ else:
         print('love cagnolini sei brutto')
 
 print('mi sto esercitando con git')
-
+print('ma quanto mi esercito?')
