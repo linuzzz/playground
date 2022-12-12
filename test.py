@@ -8,3 +8,6 @@ if str(risposta)=='si':
         print('hai un cane di nome puffolo')
 else:
         print('love cagnolini sei brutto')
+
+print('mi sto esercitando con git')
+
